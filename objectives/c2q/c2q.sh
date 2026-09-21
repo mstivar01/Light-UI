@@ -32,7 +32,7 @@ STOCK_IMEI="355858110500024"
 # Source firmware details
 MODEL="SM-S918B"
 CSC="XSG"
-IMEI="350272254378301"
+IMEI="350196551234562"
 
 # Extra firmware (Optional) details
 EXTRA_MODEL=""
