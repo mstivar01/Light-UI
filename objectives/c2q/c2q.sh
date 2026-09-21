@@ -31,7 +31,7 @@ STOCK_IMEI="355858110500024"
 
 # Source firmware details
 MODEL="SM-S918B"
-CSC="XSG"
+CSC="EUX"
 IMEI="350196551234562"
 
 # Extra firmware (Optional) details
